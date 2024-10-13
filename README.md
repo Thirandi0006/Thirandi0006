@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Thirandi0006
+</h
+- 👋 Hi, I’m Thirandi
+/h>
 - 👀 I’m interested in New technologies in IT Field
 - 🌱 I’m currently learning Programming
 - 📫 How to reach me rivinharathirandi30@gmail.com
