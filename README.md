@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Thirandi</h1>
+<h1 align="center">👋 Hi, I’m Thirandi Rivinhara</h1>
 <h3 align="center">A Undergraduate IT from Sri Lanka</h3>
 
 
