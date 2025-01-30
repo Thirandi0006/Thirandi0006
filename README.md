@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I’m Thirandi Rivinhara</h1>
 <h3 align="center">A Undergraduate IT from Sri Lanka</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👀 I’m interested in New technologies in IT Field
   
