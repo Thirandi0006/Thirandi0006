@@ -1,7 +1,3 @@
-![Banner](https://capsule-
-render.vercel.app/api?type=waving&amp;color=0:2b5876,100:4e4376&amp;height=200&amp;section=header&amp;text=Welcome%20t
-o%20My%20GitHub!&amp;fontSize=35&amp;fontColor=ffffff)
-
 <h1 align="center">Hi 👋, I'm Thirandi</h1>
 <h3 align="center">A passionate UI/UX Designer from Sri Lanka</h3>
 
