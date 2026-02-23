@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thirandi</h1>
-<h3 align="center">A passionate uiux designer from Sri Lanka</h3>
+<h3 align="center">A passionate UI/UX Designer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **uiux**
+- 🌱 I’m currently learning **UI/UX**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/thirandrivinha](https://www.behance.net/thirandrivinha)
 
